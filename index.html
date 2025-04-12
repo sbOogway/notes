@@ -20,20 +20,30 @@
       content="notes, technology, programming, microcontrollers"
     />
     <meta name="author" content="Mattia Papaccioli" />
+    <style>
+      @counter-style emoji-list {
+        system: cyclic;
+        symbols: 🏠 💡 λ 🇨 ;  
+        suffix: " - ";
+      }
+    </style>
   </head>
-  <body>
-    <ul>
+  <body style="padding: 1rem; margin: 1rem;">
+    <ul style="list-style-type: emoji-list;">
       <a
         href="https://mattiapapaccioli.com"
         target="_blank"
         rel="noopener noreferrer"
-        ><li>🏠 home</li></a
+        ><li>home</li></a
       >
       <a href="micro.pdf" target="_blank" rel="noopener noreferrer"
-        ><li>💡 Microcontrollori</li></a
+        ><li>Microcontrollori</li></a
       >
       <a href="prog_func.pdf" target="_blank" rel="noopener noreferrer"
-        ><li>λ Functional programming</li></a
+        ><li>Functional programming</li></a
+      >
+      <a href="prog_proc.svg" target="_blank" rel="noopener noreferrer"
+        ><li>Procedural programming</li></a
       >
     </ul>
   </body>
