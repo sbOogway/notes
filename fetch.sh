@@ -41,7 +41,7 @@ template="$(cat index-template.html)"
 printf "$template" "$emojis" "$html_index" > index.html
 # echo template
 
-
+cd ${prefix}notes
 git add .
 git commit -m "$(date)" 
 git push
