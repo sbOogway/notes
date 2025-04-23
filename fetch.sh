@@ -9,7 +9,7 @@ materie[automi]='automi_e_linguaggi 🏯'
 
 emojis=''
 html_index=''
-li='<a href="%s.pdf" target="_blank" rel="noopener noreferrer"><li>%s</li></a>'
+li='<a href="docs/%s.pdf" target="_blank" rel="noopener noreferrer"><li>%s</li></a>'
 
 for materia in "${!materie[@]}"
 do  
