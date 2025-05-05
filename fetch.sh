@@ -6,6 +6,7 @@ materie[micro]='microcontrollori 💡'
 materie[prog_proc]='programmazione_procedurale 🇨' 
 materie[prog_func]='programmazione_funzionale λ'
 materie[automi]='automi_e_linguaggi 🏯'
+materie[logica]='logica 🧠'
 
 emojis=''
 html_index=''
