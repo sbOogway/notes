@@ -7,6 +7,7 @@ materie[prog_proc]='programmazione_procedurale 🇨'
 materie[prog_func]='programmazione_funzionale λ'
 materie[automi]='automi_e_linguaggi 🏯'
 materie[logica]='logica 🧠'
+materie[fds]='sicurezza 🔒'
 
 emojis=''
 html_index=''
