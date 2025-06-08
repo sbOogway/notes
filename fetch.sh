@@ -8,6 +8,7 @@ materie[prog_func]='programmazione_funzionale λ'
 materie[automi]='automi_e_linguaggi 🏯'
 materie[logica]='logica 🧠'
 materie[fds]='sicurezza 🔒'
+materie[iot]='iot 🤖'
 
 emojis=''
 html_index=''
